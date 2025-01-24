@@ -7,8 +7,11 @@
 - 😘 Don't hesitate to contact me: alansoongzl@163.com; simonsmithaurora@gmail.com
 
 
-[![AS's show](https://github-readme-stats.vercel.app/api?username=Alan-Soong&include_all_commits=false&theme=transparent)](https://github.com/Alan-Soong/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Soong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alan-Soong&theme=nord_dark)
+
+![AS's show](https://github-readme-stats.vercel.app/api?username=Alan-Soong&hide_title=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Soong&layout=compact&hide_title=true&exclude_repo=comp426,Redventures-Movie-Quotes)
+
 
 
 <!--
@@ -23,8 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Alan-Soong&repo=convoychat" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Soong&repo=github-readme-stats" />
+ 
 
 -->
