@@ -10,7 +10,7 @@
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alan-Soong&theme=nord_dark)
 
 ![AS's show](https://github-readme-stats.vercel.app/api?username=Alan-Soong&hide_title=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Soong&layout=compact&hide_title=true&exclude_repo=comp426,Redventures-Movie-Quotes)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Soong&hide=false&layout=compact&hide_title=true&exclude_repo=comp426,Redventures-Movie-Quotes)
 
 
 
