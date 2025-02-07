@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently studying/working on College of Computer Science, Nankai University! 
 - 🌱 I’m currently learning ML, DL, eager for NLP! 
--
- ⚡ I'm currently working on Medical Image Segmentation!
+- ⚡ I'm currently working on Medical Image Segmentation!
 
 - 😘 Don't hesitate to contact me: alansoongzl@163.com; simonsmithaurora@gmail.com
 
