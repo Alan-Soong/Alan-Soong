@@ -9,9 +9,9 @@
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alan-Soong&theme=nord_dark)
 
-![AS's show](https://github-readme-stats.vercel.app/api?username=Alan-Soong&hide_title=true&theme=transparent&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Soong&hide=false&layout=compact&hide_title=true&Redventures-Movie-Quotes)
 
+![AS's show](https://github-readme-stats.vercel.app/api?username=Alan-Soong&theme=transparent&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Soong&layout=compact&Redventures-Movie-Quotes)
 
 
 <!--
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 
 
+![AS's show](https://github-readme-stats.vercel.app/api?username=Alan-Soong&hide_title=true&theme=transparent&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Soong&hide=false&layout=compact&hide_title=true&Redventures-Movie-Quotes)
 -->
