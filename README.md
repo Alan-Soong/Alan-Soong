@@ -10,7 +10,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alan-Soong&theme=nord_dark)
 
 
-![AS's show](https://github-readme-stats.vercel.app/api?username=Alan-Soong&theme=transparent&count_private=true)
+![AS's show](https://github-readme-stats-ha8o.vercel.app/api?username=Alan-Soong&theme=transparent&count_private=true)
 ![](https://github-readme-stats-ha8o.vercel.app/api/top-langs/?username=Alan-Soong&layout=compact&Redventures-Movie-Quotes)
 
 
