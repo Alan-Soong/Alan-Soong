@@ -13,6 +13,7 @@
 ![AS's show](https://github-readme-stats-ha8o.vercel.app/api?username=Alan-Soong&hide_title=true&theme=transparent&count_private=true)
 ![](https://github-readme-stats-ha8o.vercel.app/api/top-langs/?username=Alan-Soong&layout=compact&Redventures-Movie-Quotes)
 
+You're my ![](https://profile-counter.glitch.me/Alan-Soong/count.svg) visitor! Welcome! (It seems that the number is tiny🥺)
 
 <!--
 **Alan-Soong/Alan-Soong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
