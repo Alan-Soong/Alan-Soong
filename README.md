@@ -1,4 +1,6 @@
-## 👋 Hi there
+## 👋 n i h a o a 🥰
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Alan-Soong!;Welcome+to+my+homepage!)](https://github.com/Alan-Soong)
 
 - 🔭 I’m currently studying/working on **College of Computer Science, Nankai University**! 
 - 🌱 I’m currently learning ML, DL, eager for NLP! 
