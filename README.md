@@ -1,6 +1,10 @@
-## 👋 n i h a o a 🥰
+<h2 align="center">
+  👋 ni hao ya 🥰
+</h2>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Alan-Soong!;Welcome+to+my+homepage!)](https://github.com/Alan-Soong)
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Alan+Soong!🥰;Welcome+to+my+homepage!🥰;">
+</h2>
 
 - 🔭 I’m currently studying in **College of Computer Science, Nankai University**! 
 - 🌱 I’m currently learning ML, DL, eager for NLP! 
@@ -33,4 +37,6 @@ Here are some ideas to get you started:
 
 ![AS's show](https://github-readme-stats.vercel.app/api?username=Alan-Soong&hide_title=true&theme=transparent&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Soong&hide=false&layout=compact&hide_title=true&Redventures-Movie-Quotes)
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Alan-Soong!;Welcome+to+my+homepage!)](https://github.com/Alan-Soong)
 -->
