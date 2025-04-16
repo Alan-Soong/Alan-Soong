@@ -1,7 +1,7 @@
 ## 👋 ni hao ya 🥰
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Alan+Soong!🥰;Welcome+to+my+homepage!🥰;">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I%27m+Alan+Soong!;Welcome+to+my+homepage!;">
 </h2>
 
 - 🔭 I’m currently studying in **College of Computer Science, Nankai University**! 
@@ -23,7 +23,9 @@ You're my ![](https://profile-counter.glitch.me/Alan-Soong/count.svg) visitor! W
 **Alan-Soong/Alan-Soong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Alan+Soong!🥰;Welcome+to+my+homepage!🥰;">
+</h2>
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
