@@ -19,6 +19,9 @@
 
 You're my ![](https://profile-counter.glitch.me/Alan-Soong/count.svg) visitor! Welcome! (It seems that the number is tiny🥺)
 
+![暗色](https://raw.githubusercontent.com/Alan-Soong/Alan-Soong/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/Alan-Soong/Alan-Soong/output/github-contribution-grid-snake.svg)
+
 <!--
 **Alan-Soong/Alan-Soong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
